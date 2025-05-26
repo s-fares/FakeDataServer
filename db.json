@@ -1,61 +1,71 @@
 [
     {
       "name": "Leanne Graham",
-      "address": "Kulas Light, Gwenborough, 92998-3874",
+      "street": "Kulas Light",
+      "city": "Gwenborough",
       "phone": "1-770-736-8031 x56442",
       "email": "Sincere@april.biz"
     },
     {
       "name": "Ervin Howell",
-      "address": "Victor Plains, Wisokyburgh, 90566-7771",
+      "street": "Victor Plains",
+      "city": "Wisokyburgh",
       "phone": "010-692-6593 x09125",
       "email": "Shanna@melissa.tv"
     },
     {
       "name": "Clementine Bauch",
-      "address": "Douglas Extension, McKenziehaven, 59590-4157",
+      "street": "Douglas Extension",
+      "city": "McKenziehaven",
       "phone": "1-463-123-4447",
       "email": "Nathan@yesenia.net"
     },
     {
       "name": "Patricia Lebsack",
-      "address": "Hoeger Mall, South Elvis, 53919-4257",
+      "street": "Hoeger Mall",
+      "city": "South Elvis",
       "phone": "493-170-9623 x156",
       "email": "Julianne.OConner@kory.org"
     },
     {
       "name": "Chelsey Dietrich",
-      "address": "Skiles Walks, Roscoeview, 33263",
+      "street": "Skiles Walks",
+      "city": "Roscoeview",
       "phone": "(254)954-1289",
       "email": "Lucio_Hettinger@annie.ca"
     },
     {
       "name": "Mrs. Dennis Schulist",
-      "address": "Norberto Crossing, South Christy, 23505-1337",
+      "street": "Norberto Crossing",
+      "city": "South Christy",
       "phone": "1-477-935-8478 x6430",
       "email": "Karley_Dach@jasper.info"
     },
     {
       "name": "Kurtis Weissnat",
-      "address": "Rex Trail, Howemouth, 58804-1099",
+      "street": "Rex Trail",
+      "city": "Howemouth",
       "phone": "210.067.6132",
       "email": "Telly.Hoeger@billy.biz"
     },
     {
       "name": "Nicholas Runolfsdottir V",
-      "address": "Ellsworth Summit, Aliyaview, 45169",
+      "street": "Ellsworth Summit",
+      "city": "Aliyaview",
       "phone": "586.493.6943 x140",
       "email": "Sherwood@rosamond.me"
     },
     {
       "name": "Glenna Reichert",
-      "address": "Dayna Park, Bartholomebury, 76495-3109",
+      "street": "Dayna Park",
+      "city": "Bartholomebury",
       "phone": "(775)976-6794 x41206",
       "email": "Chaim_McDermott@dana.io"
     },
     {
       "name": "Clementina DuBuque",
-      "address": "Kattie Turnpike, Lebsackbury, 31428-2261",
+      "street": "Kattie Turnpike",
+      "city": "Lebsackbury",
       "phone": "024-648-3804",
       "email": "Rey.Padberg@karina.biz"
     }
